@@ -1,2 +1,2 @@
-# bhuangSFE.github.io
-The github pages setup for bhuangSFE account.
+# bri-huang.github.io
+The github pages setup for bri-huang account.
