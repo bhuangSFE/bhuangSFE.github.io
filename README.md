@@ -6,7 +6,8 @@ The github pages setup for bri-huang account.
 ### This is a Heading 3
 ***
 ### Code Example
-'''
+```
+\\ Arduino Code Example
 void setup(){
   pinMode(13, OUTPUT);
 }
@@ -19,4 +20,4 @@ void loop(){
 }
 
 
-'''
+```
