@@ -1,6 +1,11 @@
 theme: jekyll-theme-minimal
 title: "bri-huang.github.io"
-description: "  " 
+description: "<div class="topnav">
+  <a class="active" href="/">Home</a>
+  <a href="#Projects">Projects</a>
+  <a href="/resume">Resume</a>
+  <a href="/about">About</a>
+</div>" 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme 
