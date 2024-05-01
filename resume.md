@@ -18,15 +18,15 @@ Degree: B.S. in Electrical Engineering (May 2000)
 
  ## Teaching Experience:
 
-**Sept. ‘19-Present**  
+### Sept. ‘19-Present 
 *Chicago Public School District - Von Steuben Metropolitan Science Center*  
 **Physics / Engineering Teacher** – Physics, Hon. Physics, and Engineering Design and Development. Integrated modeling physics and engineering and design thinking principles into the classroom.
 
-**Aug. ‘17-Aug. ‘19**  
+### **Aug. ‘17-Aug. ‘19**  
 *HadaNou Collective (Hack School)*  
 **Founding Director and Education Engineer** - Director of Hack School and Lead Teacher for Introduction to Engineering (Hack School) and AP Computer Science Principles at STRIVE Prep Excel. Developing a course focused around integrating technology and community.
 
-**Fall 2015** 
+### **Fall 2015** 
 *Colorado School of Mines (CSM)*  
 **Adjunct Professor** - PHGN317 Digital Electronics: 3rd year required course for engineering physics majors at CSM. Re-developed and improved existing lectures and labs to integrate more programming and electronics to equip students to build more.
 
