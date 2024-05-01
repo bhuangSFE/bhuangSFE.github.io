@@ -4,21 +4,20 @@ huang.brian.c@gmail.com - 303.596.8163 (mobile) @bri_huang
 ## Education & Certifications: 
 *Colorado Department of Education*
 Secondary Education Teacher License - Exp: 2023       
-
 Endorsement:  Secondary Science Ed. – Focus: Physics - Addtl. Qualifications:  Secondary Math Ed.
 
 *Illinois State Board of Education*
 IEIN: 1243634 - Professional Educator License - Exp: 2024
-
 Endorsement:  Secondary Science Ed. – Focus: Physics,  Chemistry, Gen-Science
 
-*University of Colorado – School of Education*
 
+*University of Colorado – School of Education*
 Degree:  M.A. in Sec. Science Ed. –  Focus: Physics (May 2008)
 
-*University of Illinois - Department of Electrical and Computer Engineering*
 
+*University of Illinois - Department of Electrical and Computer Engineering*
 Degree: B.S. in Electrical Engineering (May 2000)
+
 
  ## Teaching Experience:
 
