@@ -1,7 +1,4 @@
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
-    
+   
 ## About Me
 <img src="/images/headshot_brian.png" width="200">  
 
