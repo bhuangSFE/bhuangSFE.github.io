@@ -2,8 +2,8 @@
 huang.brian.c@gmail.com - 303.596.8163 (mobile) @bri_huang 
 
 ## Education & Certifications: 
-*Colorado Department of Education*
-Secondary Education Teacher License - Exp: 2023       
+*Colorado Department of Education* 
+Secondary Education Teacher License - Exp: 2023
 Endorsement:  Secondary Science Ed. – Focus: Physics - Addtl. Qualifications:  Secondary Math Ed.
 
 *Illinois State Board of Education*
