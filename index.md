@@ -1,9 +1,4 @@
-<div class="topnav">
-  <a class="active" href="/">Home</a>
-  <a href="#Projects">Projects</a>
-  <a href="/resume">Resume</a>
-  <a href="/about">About</a>
-</div>
+
 
 ## About Me
 <img src="/images/headshot_brian.png" width="200">  
