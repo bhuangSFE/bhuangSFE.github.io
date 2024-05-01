@@ -22,31 +22,31 @@ Degree: B.S. in Electrical Engineering (May 2000)
 *Chicago Public School District - Von Steuben Metropolitan Science Center*  
 **Physics / Engineering Teacher** – Physics, Hon. Physics, and Engineering Design and Development. Integrated modeling physics and engineering and design thinking principles into the classroom.
 
-### **Aug. ‘17-Aug. ‘19**  
+#### Aug. ‘17-Aug. ‘19
 *HadaNou Collective (Hack School)*  
 **Founding Director and Education Engineer** - Director of Hack School and Lead Teacher for Introduction to Engineering (Hack School) and AP Computer Science Principles at STRIVE Prep Excel. Developing a course focused around integrating technology and community.
 
-### **Fall 2015** 
+#### Fall 2015 
 *Colorado School of Mines (CSM)*  
 **Adjunct Professor** - PHGN317 Digital Electronics: 3rd year required course for engineering physics majors at CSM. Re-developed and improved existing lectures and labs to integrate more programming and electronics to equip students to build more.
 
-**Jan. ’13–Aug. ‘17**
+#### Jan. ’13–Aug. ‘17
 *SparkFun Electronics*  
 **Education Engineer** – Design, develop, and pilot curriculum, activities, and training materials to integrate electronics, programming, and engineering into the K-12 classroom. 
  
-**Oct. ’11–Dec‘12**  
+#### Oct. ’11–Dec‘12  
 *EcoTech Institute*  
 **Adjunct Instructor** – 4 Qtrs - Digital Electronics, AC/DC Circuits, Analog Electronics.  Developed new coursework (lectures and labs) for the Electrical Engineering Technology program at EcoTech focused around training students preparing for careers in green energy fields. 
  
-**Aug. ’10–Jan‘13**  
+#### Aug. ’10–Jan‘13  
 *Cherry Creek School District – Overland High School*  
 **Science / Technology Teacher** – Physics, Hon. Physics, AP Physics, Robotics, Intro to Tech.  Developed and integrated technology into both the physics and the robotics classroom. 
  
-**Aug. ’08–May ‘10**  
+#### Aug. ’08–May ‘10  
 *Boulder Valley School District – Centaurus High School*  
 **Math / Science Teacher** – Geometry, and IB Physics.  Integrating science application and investigation strategies into both Algebra and Geometry courses.  Incorporating literacy and writing into the mathematics curriculum to provide greater accessibility to mathematics concepts. 
  
-**Sept. ’01-Jul. ’03**  
+#### Sept. ’01-Jul. ’03  
 *Science Museum of Minnesota*  
 **Instructor / Teacher** – Develop, design, and teach classes for the Youth & Family Programs department.  Students range in ages from 6 – 12 years old and class topics have varied from:  Lasers, Mirrors, and Light to Buildings and Structures to Electricity and Electronics to Design and Build a Remote Control Car.
  
