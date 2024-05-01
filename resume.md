@@ -18,7 +18,7 @@ Degree: B.S. in Electrical Engineering (May 2000)
 
  ## Teaching Experience:
 
-### Sept. ‘19-Present 
+#### Sept. ‘19-Present 
 *Chicago Public School District - Von Steuben Metropolitan Science Center*  
 **Physics / Engineering Teacher** – Physics, Hon. Physics, and Engineering Design and Development. Integrated modeling physics and engineering and design thinking principles into the classroom.
 
